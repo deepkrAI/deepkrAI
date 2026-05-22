@@ -21,3 +21,12 @@ HTML | CSS | JavaScript | React | Node.js | MongoDB | Python | Git
 
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
+
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
