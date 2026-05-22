@@ -1,42 +1,150 @@
-# 💫 About Me:
-👋 Hi, I'm Deep Kumar  
-🎓 Engineering Student  
-💻 Learning MERN Stack & DSA  
-🚀 Passionate About Web Development  
-🌱 Currently Improving My Coding Skills  
+<div align="center">
+
+# 💻 Deep Kumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub+Profile;Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things" />
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+</div>
 
 ---
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
+## 🧠 About Me
+
+- 🎓 Engineering Student
+- 💻 Passionate about Coding
+- 🌱 Learning MERN Stack
+- 🚀 Goal: Become Software Engineer
+- ⚡ Love Technology & Open Source
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,git,github,linux,vscode" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark"/>
+</p>
 
 ---
 
-## ✨ Quote
-"Code • Learn • Build • Repeat 🚀"
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 👨‍💻 Eat • Sleep • Code • Repeat
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=200&section=header&text=Deep%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+# 👨‍💻 Welcome To My Profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Engineering+Student;Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,git,github,linux,vscode" />
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter"/>
+</a>
+</p>
+<div align="center">
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
+Replace every:
+
+```txt id="0n83m7"
+YOUR_USERNAME
+
+# 💫 About Me
+
+```javascript
+const deep = {
+    code: ["HTML", "CSS", "JavaScript", "Python"],
+    technologies: {
+        frontEnd: ["React"],
+        backEnd: ["Node.js", "Express"],
+        database: ["MongoDB"]
+    },
+    currentFocus: "MERN Stack Development",
+    funFact: "I debug with console.log() 😂"
+}
+
+
+
